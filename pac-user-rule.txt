@@ -27,7 +27,6 @@
 ||githubapp.com
 ||disqus.com
 ||pana.wang
-||csdn.net
 ||mozilla.org
 ||survivejs.com
 ||aasen.in

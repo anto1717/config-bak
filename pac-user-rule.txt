@@ -152,6 +152,7 @@
 ||plnkr.co
 ||polymerchina.org
 ||popcorntime.io
+||raindrop.io
 ||rhcloud.com
 ||s3.amazonaws.com
 ||secretchina.com

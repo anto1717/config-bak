@@ -112,6 +112,7 @@
 ||googlevideo.com
 ||gravatar.com
 ||grtp.co
+||gstatic.com
 /^https?:\/\/([^\/]+\.)*gstatic\.*/
 ||gttp.co
 ||hexo.io

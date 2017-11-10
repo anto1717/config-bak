@@ -100,6 +100,7 @@
 ||ghbtns.com
 /^https?:\/\/([^\/]+\.)*gitbook\.*/
 ||github.com
+||github.io
 /^https?:\/\/([^\/]+\.)*githubusercontent\.*/
 ||gmail.com
 ||goo.gl
@@ -133,6 +134,7 @@
 ||keymetrics.io
 ||keystonejs.com
 ||kmanjs.com
+||lazada.sg
 ||liverail.com
 ||mathjax.org
 ||mattpalmerlee.com
@@ -143,6 +145,7 @@
 ||navicat.com
 ||netdna-ssl.com
 ||newrelic.com
+||nginx.com
 ||nordstrom.com
 ||nordstromimage.com
 ||npmjs.com
